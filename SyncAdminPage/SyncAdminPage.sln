@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAdminPage", "SyncAdminPage\SyncAdminPage.csproj", "{A109D2C1-965A-4D4C-8429-D972902031CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAdminPage.Tests", "SyncAdminPage.Tests\SyncAdminPage.Tests.csproj", "{5CDEACBE-E8BC-4991-8178-9FDC71ED726E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A109D2C1-965A-4D4C-8429-D972902031CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A109D2C1-965A-4D4C-8429-D972902031CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A109D2C1-965A-4D4C-8429-D972902031CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A109D2C1-965A-4D4C-8429-D972902031CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDEACBE-E8BC-4991-8178-9FDC71ED726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDEACBE-E8BC-4991-8178-9FDC71ED726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDEACBE-E8BC-4991-8178-9FDC71ED726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDEACBE-E8BC-4991-8178-9FDC71ED726E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7522656D-2A92-45CE-B741-72D1D8EF36D7}
+	EndGlobalSection
+EndGlobal
